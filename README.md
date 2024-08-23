@@ -1,3 +1,11 @@
+**Name:** SAURABH KUMAR SINGH
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CTO8DS5616
+**Domain:** Java Programming
+**Duration:** July 23 to August 23 2024
+**Mentor:** Neela Santhosh Kumar
+
+
 <h1>Inventory-management</h1>
 
 In this Inventory Management System project in Java with MySQL. The GUI is designed with the help of Swing and the database connectivity is managed using JDBC API. These types of applications can help any small store to maintain and manage its inventory of Products, Sales, Customer Information, and Current Stock.
