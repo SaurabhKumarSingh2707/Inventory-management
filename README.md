@@ -25,6 +25,9 @@ The Stock/Inventory Manager can log in to manage the inventory using the credent
 <h3>Sales Data</h3>
 ![Sales Data](https://github.com/user-attachments/assets/e0229b7d-e25a-40f7-a782-fcf77f0210ad)
 
+![Current Stock](https://github.com/user-attachments/assets/58c414e5-d956-466e-b6a8-449451b95e6f)
+
+
 
 
 
