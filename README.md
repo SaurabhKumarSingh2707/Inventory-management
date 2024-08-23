@@ -12,7 +12,8 @@ The Stock/Inventory Manager can log in to manage the inventory using the credent
 
 <h2>Application Screenshot</h2>
 <h3>Login Page</h3>
-![Screenshot 2024-08-23 200229](https://github.com/user-attachments/assets/a5b976d0-d21f-45c7-ae54-4d5ddc72fec2)
+![Screenshot 2024-08-23 200229](https://github.com/user-attachments/assets/c5b430d7-b119-4347-94f3-3c93d6940de8)
+
 <h3>Dashboard</h3>
 ![daseboad](https://github.com/user-attachments/assets/4d2ef004-ba64-4d4b-8c2d-8d6adbb7b120)
 <h3>Products Data</h3>
