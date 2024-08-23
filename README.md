@@ -9,4 +9,5 @@ The Stock/Inventory Manager can log in to manage the inventory using the credent
 <ol>View the current stock</ol>
 <ol>View all customers, add a new customer and delete any customer details.</ol>
 <ol>View all past sales information and add new sale information</ol>
-<img scr="https://github.com/user-attachments/assets/ad192ee2-063e-4a9b-9662-bf052784af31"> </img>
+<img scr="![image](https://github.com/user-attachments/assets/7b713c50-fd23-4b99-8f09-c4c8a79d887a)
+"> </img>
