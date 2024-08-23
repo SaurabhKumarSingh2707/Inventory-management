@@ -17,22 +17,27 @@ The Stock/Inventory Manager can log in to manage the inventory using the credent
 ![Screenshot 2024-08-23 200229](https://github.com/user-attachments/assets/d4921bbe-a37f-4ea4-abef-2b7aafe56deb)
 
 <h3>Dashboard</h3>
-![daseboad](https://github.com/user-attachments/assets/4d2ef004-ba64-4d4b-8c2d-8d6adbb7b120)
+
+
 ![daseboad](https://github.com/user-attachments/assets/05b983b2-b409-45a6-9adf-38f8f61dbf1e)
 
 <h3>Products Data</h3>
-![Products](https://github.com/user-attachments/assets/4e82605d-850b-4927-8b0c-c51bcd0099e0)
+
+
 ![Products](https://github.com/user-attachments/assets/e909ffc8-ad5f-46f9-abdb-c3d44b192b98)
 <h3>Current Stock Data</h3>
-![Current Stock](https://github.com/user-attachments/assets/5f94ef2c-8653-4a6d-9a90-0a83e3525cdb)
+
+
 ![Current Stock](https://github.com/user-attachments/assets/c42ecdc5-dafa-4072-9718-1b8a74925c7c)
 
 <h3>Customers Data</h3>
-![Customers Data](https://github.com/user-attachments/assets/cc0597fd-8fb8-47a7-9d31-6e239d97783c)
+
+
 ![Customers Data](https://github.com/user-attachments/assets/ca44e016-0b90-4ebe-8eea-943bbcbd152a)
 
 <h3>Sales Data</h3>
-![Sales Data](https://github.com/user-attachments/assets/13469bde-7981-42c1-a347-c0d8a445ee64)
+
+
 ![Sales Data](https://github.com/user-attachments/assets/de7b9aac-9de0-4662-a623-cd63c8542aad)
 
 
