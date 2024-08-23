@@ -5,8 +5,7 @@ In this Inventory Management System project in Java with MySQL. The GUI is desig
 <h2>Features</h2>
 The Stock/Inventory Manager can log in to manage the inventory using the credential root as username and root as password. The manager has access to the following:
 
-<ul>View all existing products and add a new product detail</ul>
-<ul>View the current stock</ul>
-<ul>View all customers, add a new customer and delete any customer details.</ul>
-<ul>View all past sales information and add new sale information
-</ul>
+<ol>View all existing products and add a new product detail</ol>
+<ol>View the current stock</ol>
+<ol>View all customers, add a new customer and delete any customer details.</ol>
+<ol>View all past sales information and add new sale information</ol>
