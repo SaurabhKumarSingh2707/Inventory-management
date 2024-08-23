@@ -11,7 +11,8 @@ The Stock/Inventory Manager can log in to manage the inventory using the credent
 <ol>View all past sales information and add new sale information</ol>
 
 <h2>Application Screenshot</h2>
-<h3>Login Page</h3>
+<h3>Login Page</h3> 
+<br>
 ![Screenshot 2024-08-23 200229](https://github.com/user-attachments/assets/c5b430d7-b119-4347-94f3-3c93d6940de8)
 
 <h3>Dashboard</h3>
