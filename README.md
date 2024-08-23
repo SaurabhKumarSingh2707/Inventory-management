@@ -14,7 +14,7 @@ The Stock/Inventory Manager can log in to manage the inventory using the credent
 <h3>Login Page</h3> 
 
 
-<center>![Screenshot 2024-08-23 200229](https://github.com/user-attachments/assets/d4921bbe-a37f-4ea4-abef-2b7aafe56deb)</center>
+![Screenshot 2024-08-23 200229](https://github.com/user-attachments/assets/d4921bbe-a37f-4ea4-abef-2b7aafe56deb)
 
 <h3>Dashboard</h3>
 
