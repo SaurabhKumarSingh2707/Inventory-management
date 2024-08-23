@@ -1,9 +1,9 @@
-**Name:** SAURABH KUMAR SINGH
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CTO8DS5616
-**Domain:** Java Programming
-**Duration:** July 23 to August 23 2024
-**Mentor:** Neela Santhosh Kumar
+**Name:** SAURABH KUMAR SINGH <br>
+**Company:** CODTECH IT SOLUTIONS <br>
+**ID:** CTO8DS5616 <br>
+**Domain:** Java Programming <br>
+**Duration:** July 23 to August 23 2024 <br>
+**Mentor:** Neela Santhosh Kumar <br>
 
 
 <h1>Inventory-management</h1>
